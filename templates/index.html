@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global IEM Waifu Sorter</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="staging-area">
+            <div class="info-panel">
+                <h2 id="item-name">Loading...</h2>
+                <p id="progress-text">Scanning directories...</p>
+                <button id="finish-btn">Save & Export to TXT</button>
+            </div>
+            
+            <div class="image-wrapper bg-white" id="image-container">
+                <img id="active-image" class="draggable" draggable="true" src="" alt="Item Image">
+                <div class="hint-text">Drag down to rank • Press SPACE to toggle BG</div>
+            </div>
+        </div>
+
+        <div class="tier-list-container" id="tiers">
+            {% for tier in tiers %}
+            <div class="tier-row" data-tier-id="{{ tier.id }}">
+                <div class="tier-label" style="background-color: {{ tier.color }};">
+                    <span>{{ tier.name }}</span>
+                </div>
+                <div class="tier-dropzone" id="dropzone-{{ tier.id }}">
+                    </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
