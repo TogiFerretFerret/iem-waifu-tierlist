@@ -1,577 +1,457 @@
 {
-    "pending": [],
+    "pending": [
+        {
+            "path": "moondrop/SSP.png",
+            "display_name": "[MOONDROP] SSP"
+        },
+        {
+            "path": "moondrop/yoghurt.png",
+            "display_name": "[MOONDROP] yoghurt"
+        },
+        {
+            "path": "moondrop/Space Travel 2.png",
+            "display_name": "[MOONDROP] Space Travel 2"
+        },
+        {
+            "path": "moondrop/Mid-Autumn Festival.png",
+            "display_name": "[MOONDROP] Mid-Autumn Festival"
+        },
+        {
+            "path": "moondrop/Concerto.png",
+            "display_name": "[MOONDROP] Concerto"
+        },
+        {
+            "path": "moondrop/COFFEE2.png",
+            "display_name": "[MOONDROP] COFFEE2"
+        },
+        {
+            "path": "moondrop/UNNAMED.png",
+            "display_name": "[MOONDROP] UNNAMED"
+        },
+        {
+            "path": "moondrop/COFFEE.png",
+            "display_name": "[MOONDROP] COFFEE"
+        },
+        {
+            "path": "moondrop/VENUS.png",
+            "display_name": "[MOONDROP] VENUS"
+        },
+        {
+            "path": "moondrop/KADENZ.png",
+            "display_name": "[MOONDROP] KADENZ"
+        },
+        {
+            "path": "moondrop/COSMO.png",
+            "display_name": "[MOONDROP] COSMO"
+        },
+        {
+            "path": "moondrop/DISCDREAM2.png",
+            "display_name": "[MOONDROP] DISCDREAM2"
+        },
+        {
+            "path": "moondrop/DISCDREAM2 ULTRA.png",
+            "display_name": "[MOONDROP] DISCDREAM2 ULTRA"
+        },
+        {
+            "path": "moondrop/DUSK.png",
+            "display_name": "[MOONDROP] DUSK"
+        },
+        {
+            "path": "moondrop/CHU2 DSP.png",
+            "display_name": "[MOONDROP] CHU2 DSP"
+        },
+        {
+            "path": "moondrop/GOLDEN AGE 1979.png",
+            "display_name": "[MOONDROP] GOLDEN AGE 1979"
+        },
+        {
+            "path": "moondrop/GOLDEN AGE 1979 - 2.png",
+            "display_name": "[MOONDROP] GOLDEN AGE 1979 - 2"
+        },
+        {
+            "path": "moondrop/VOYAGER.png",
+            "display_name": "[MOONDROP] VOYAGER"
+        },
+        {
+            "path": "moondrop/MAY.png",
+            "display_name": "[MOONDROP] MAY"
+        },
+        {
+            "path": "moondrop/DISCDREAM.png",
+            "display_name": "[MOONDROP] DISCDREAM"
+        },
+        {
+            "path": "moondrop/JOKER.png",
+            "display_name": "[MOONDROP] JOKER"
+        },
+        {
+            "path": "moondrop/PARA.png",
+            "display_name": "[MOONDROP] PARA"
+        },
+        {
+            "path": "moondrop/CHU2 2.png",
+            "display_name": "[MOONDROP] CHU2 2"
+        },
+        {
+            "path": "moondrop/Dawn Pro.png",
+            "display_name": "[MOONDROP] Dawn Pro"
+        },
+        {
+            "path": "moondrop/Dark Saber.png",
+            "display_name": "[MOONDROP] Dark Saber"
+        },
+        {
+            "path": "moondrop/Aria2.png",
+            "display_name": "[MOONDROP] Aria2"
+        },
+        {
+            "path": "moondrop/Beautiful World.png",
+            "display_name": "[MOONDROP] Beautiful World"
+        },
+        {
+            "path": "moondrop/Starfield 2.png",
+            "display_name": "[MOONDROP] Starfield 2"
+        },
+        {
+            "path": "moondrop/Solis 2.png",
+            "display_name": "[MOONDROP] Solis 2"
+        },
+        {
+            "path": "moondrop/Space Travel.png",
+            "display_name": "[MOONDROP] Space Travel"
+        },
+        {
+            "path": "moondrop/CHU II II.png",
+            "display_name": "[MOONDROP] CHU II II"
+        },
+        {
+            "path": "moondrop/MS.Q (Color).png",
+            "display_name": "[MOONDROP] MS.Q (Color)"
+        },
+        {
+            "path": "moondrop/MS.Q.png",
+            "display_name": "[MOONDROP] MS.Q"
+        },
+        {
+            "path": "moondrop/QIXI FESTIVAL.png",
+            "display_name": "[MOONDROP] QIXI FESTIVAL"
+        },
+        {
+            "path": "moondrop/CHENGDU.png",
+            "display_name": "[MOONDROP] CHENGDU"
+        },
+        {
+            "path": "moondrop/KXXS.png",
+            "display_name": "[MOONDROP] KXXS"
+        },
+        {
+            "path": "moondrop/CHACONNE.png",
+            "display_name": "[MOONDROP] CHACONNE"
+        },
+        {
+            "path": "moondrop/S8.png",
+            "display_name": "[MOONDROP] S8"
+        },
+        {
+            "path": "moondrop/MOONRIVER 2 TI.png",
+            "display_name": "[MOONDROP] MOONRIVER 2 TI"
+        },
+        {
+            "path": "moondrop/SPARKS.png",
+            "display_name": "[MOONDROP] SPARKS"
+        },
+        {
+            "path": "moondrop/SPARKS - 2.png",
+            "display_name": "[MOONDROP] SPARKS - 2"
+        },
+        {
+            "path": "moondrop/MID-AUTUMN.png",
+            "display_name": "[MOONDROP] MID-AUTUMN"
+        },
+        {
+            "path": "moondrop/SPACESHIP.png",
+            "display_name": "[MOONDROP] SPACESHIP"
+        },
+        {
+            "path": "moondrop/CHRISTMAS.png",
+            "display_name": "[MOONDROP] CHRISTMAS"
+        },
+        {
+            "path": "moondrop/NEW YEAR.png",
+            "display_name": "[MOONDROP] NEW YEAR"
+        },
+        {
+            "path": "moondrop/KANTO COOKING.png",
+            "display_name": "[MOONDROP] KANTO COOKING"
+        },
+        {
+            "path": "moondrop/CHILDREN'S DAY.png",
+            "display_name": "[MOONDROP] CHILDREN'S DAY"
+        },
+        {
+            "path": "moondrop/BLESSING2 DUSK.png",
+            "display_name": "[MOONDROP] BLESSING2 DUSK"
+        },
+        {
+            "path": "moondrop/BLESSING2.png",
+            "display_name": "[MOONDROP] BLESSING2"
+        },
+        {
+            "path": "moondrop/BLESSING3.png",
+            "display_name": "[MOONDROP] BLESSING3"
+        },
+        {
+            "path": "moondrop/CHENGDU-2.png",
+            "display_name": "[MOONDROP] CHENGDU-2"
+        },
+        {
+            "path": "moondrop/AKIHABARA.png",
+            "display_name": "[MOONDROP] AKIHABARA"
+        },
+        {
+            "path": "moondrop/NEW YORK.png",
+            "display_name": "[MOONDROP] NEW YORK"
+        },
+        {
+            "path": "moondrop/NEKOCAKE.png",
+            "display_name": "[MOONDROP] NEKOCAKE"
+        },
+        {
+            "path": "moondrop/CHRISTMAS-2.png",
+            "display_name": "[MOONDROP] CHRISTMAS-2"
+        },
+        {
+            "path": "moondrop/VALENTINES DAY.png",
+            "display_name": "[MOONDROP] VALENTINES DAY"
+        },
+        {
+            "path": "moondrop/MOUSEPAD.png",
+            "display_name": "[MOONDROP] MOUSEPAD"
+        },
+        {
+            "path": "moondrop/MOUSEPAD-2.png",
+            "display_name": "[MOONDROP] MOUSEPAD-2"
+        },
+        {
+            "path": "moondrop/ARIA.png",
+            "display_name": "[MOONDROP] ARIA"
+        },
+        {
+            "path": "moondrop/SPARKS - 3.png",
+            "display_name": "[MOONDROP] SPARKS - 3"
+        },
+        {
+            "path": "moondrop/CHRISTMAS-3.png",
+            "display_name": "[MOONDROP] CHRISTMAS-3"
+        },
+        {
+            "path": "moondrop/ACRYLIC STAND.png",
+            "display_name": "[MOONDROP] ACRYLIC STAND"
+        },
+        {
+            "path": "moondrop/WEDDING.png",
+            "display_name": "[MOONDROP] WEDDING"
+        },
+        {
+            "path": "moondrop/WEDDING 2.png",
+            "display_name": "[MOONDROP] WEDDING 2"
+        },
+        {
+            "path": "moondrop/NEW YEAR - 3.png",
+            "display_name": "[MOONDROP] NEW YEAR - 3"
+        },
+        {
+            "path": "moondrop/ARIA SE.png",
+            "display_name": "[MOONDROP] ARIA SE"
+        },
+        {
+            "path": "moondrop/LAN.png",
+            "display_name": "[MOONDROP] LAN"
+        },
+        {
+            "path": "moondrop/WEDDING - 3.png",
+            "display_name": "[MOONDROP] WEDDING - 3"
+        },
+        {
+            "path": "moondrop/NEW YEAR - 2.png",
+            "display_name": "[MOONDROP] NEW YEAR - 2"
+        },
+        {
+            "path": "moondrop/SOLIS.png",
+            "display_name": "[MOONDROP] SOLIS"
+        },
+        {
+            "path": "moondrop/STELLARIS.png",
+            "display_name": "[MOONDROP] STELLARIS"
+        },
+        {
+            "path": "moondrop/KATO BLUE.png",
+            "display_name": "[MOONDROP] KATO BLUE"
+        },
+        {
+            "path": "moondrop/VARIATIONS.png",
+            "display_name": "[MOONDROP] VARIATIONS"
+        },
+        {
+            "path": "moondrop/ILLUMINATION.png",
+            "display_name": "[MOONDROP] ILLUMINATION"
+        },
+        {
+            "path": "moondrop/CHING CHONG BING BONG 1.png",
+            "display_name": "[MOONDROP] CHING CHONG BING BONG 1"
+        },
+        {
+            "path": "moondrop/CHING CHONG BING BONG 2.png",
+            "display_name": "[MOONDROP] CHING CHONG BING BONG 2"
+        },
+        {
+            "path": "moondrop/SSR.png",
+            "display_name": "[MOONDROP] SSR"
+        },
+        {
+            "path": "moondrop/ALICE.png",
+            "display_name": "[MOONDROP] ALICE"
+        },
+        {
+            "path": "moondrop/SPACESHIP 2.png",
+            "display_name": "[MOONDROP] SPACESHIP 2"
+        },
+        {
+            "path": "moondrop/LITTLE WHITE.png",
+            "display_name": "[MOONDROP] LITTLE WHITE"
+        },
+        {
+            "path": "moondrop/JIU.png",
+            "display_name": "[MOONDROP] JIU"
+        },
+        {
+            "path": "moondrop/KXXX.png",
+            "display_name": "[MOONDROP] KXXX"
+        },
+        {
+            "path": "moondrop/KURONEKO.png",
+            "display_name": "[MOONDROP] KURONEKO"
+        },
+        {
+            "path": "moondrop/STARFIELD.png",
+            "display_name": "[MOONDROP] STARFIELD"
+        },
+        {
+            "path": "moondrop/MOONRIVER 2.png",
+            "display_name": "[MOONDROP] MOONRIVER 2"
+        },
+        {
+            "path": "moondrop/KATO.png",
+            "display_name": "[MOONDROP] KATO"
+        },
+        {
+            "path": "moondrop/CHU.png",
+            "display_name": "[MOONDROP] CHU"
+        },
+        {
+            "path": "moondrop/VOID.png",
+            "display_name": "[MOONDROP] VOID"
+        },
+        {
+            "path": "moondrop/VOID - 2.png",
+            "display_name": "[MOONDROP] VOID - 2"
+        },
+        {
+            "path": "fitear/Monet17.png",
+            "display_name": "[FITEAR] Monet17"
+        },
+        {
+            "path": "fitear/AYA 1.png",
+            "display_name": "[FITEAR] AYA 1"
+        },
+        {
+            "path": "fitear/AYA2.png",
+            "display_name": "[FITEAR] AYA2"
+        },
+        {
+            "path": "GFL (Game)/DE LISLE.png",
+            "display_name": "[GFL (GAME)] DE LISLE"
+        },
+        {
+            "path": "FAAEAL/HIBISCUS - Colored.png",
+            "display_name": "[FAAEAL] HIBISCUS - Colored"
+        },
+        {
+            "path": "FAAEAL/HIBISCUS - Box Art.png",
+            "display_name": "[FAAEAL] HIBISCUS - Box Art"
+        },
+        {
+            "path": "SEEAUDIO/Yume.png",
+            "display_name": "[SEEAUDIO] Yume"
+        },
+        {
+            "path": "SEEAUDIO/Yume Summer Edition.png",
+            "display_name": "[SEEAUDIO] Yume Summer Edition"
+        },
+        {
+            "path": "TANCHJIM/ASANO TANCH.png",
+            "display_name": "[TANCHJIM] ASANO TANCH"
+        },
+        {
+            "path": "FiiO/cable.png",
+            "display_name": "[FIIO] cable"
+        },
+        {
+            "path": "IKKO/Obsidian OH10.png",
+            "display_name": "[IKKO] Obsidian OH10"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI.png",
+            "display_name": "[TRUTHEAR] SHIROI"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-2.png",
+            "display_name": "[TRUTHEAR] SHIROI-2"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-3.png",
+            "display_name": "[TRUTHEAR] SHIROI-3"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-4.png",
+            "display_name": "[TRUTHEAR] SHIROI-4"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-5.png",
+            "display_name": "[TRUTHEAR] SHIROI-5"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-6.png",
+            "display_name": "[TRUTHEAR] SHIROI-6"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-CHIBI.png",
+            "display_name": "[TRUTHEAR] SHIROI-CHIBI"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-7.png",
+            "display_name": "[TRUTHEAR] SHIROI-7"
+        },
+        {
+            "path": "TRUTHEAR/SHIROI-8.png",
+            "display_name": "[TRUTHEAR] SHIROI-8"
+        },
+        {
+            "path": "TANGZU/WANER.png",
+            "display_name": "[TANGZU] WANER"
+        }
+    ],
     "results": {
-        "ssp": [
-            {
-                "path": "moondrop/SSP.png",
-                "display_name": "[MOONDROP] SSP",
-                "note": "Truly incredible. Punk Mitsukiyuki is what everyone needed but didn't know they wanted"
-            },
-            {
-                "path": "moondrop/KADENZ.png",
-                "display_name": "[MOONDROP] KADENZ",
-                "note": "Holy Shit. Beautiful representation of the Kadenz - while it makes them shinier I honestly like it. Amazing work."
-            },
-            {
-                "path": "moondrop/DUSK.png",
-                "display_name": "[MOONDROP] DUSK",
-                "note": "crinaclette is hot + the details are really quite nice"
-            },
-            {
-                "path": "moondrop/GOLDEN AGE 1979.png",
-                "display_name": "[MOONDROP] GOLDEN AGE 1979",
-                "note": "what can i say i fall for punk mitsukiyuki time and time again"
-            },
-            {
-                "path": "moondrop/Aria2.png",
-                "display_name": "[MOONDROP] Aria2",
-                "note": "OH GOSH THIS IS GOOD. minor nitpick is slightly overly rounded iems but that's really a choice of how geometric you want to be"
-            },
-            {
-                "path": "moondrop/Beautiful World.png",
-                "display_name": "[MOONDROP] Beautiful World",
-                "note": "no complaints other than maybe some scaling type things"
-            },
-            {
-                "path": "moondrop/Starfield 2.png",
-                "display_name": "[MOONDROP] Starfield 2",
-                "note": "HOLY SHIT THIS IS SO GOOD. even the use of odd color just.... works"
-            },
-            {
-                "path": "moondrop/Solis 2.png",
-                "display_name": "[MOONDROP] Solis 2",
-                "note": "What else did you expect for the solis 2?"
-            },
-            {
-                "path": "moondrop/MOONRIVER 2 TI.png",
-                "display_name": "[MOONDROP] MOONRIVER 2 TI",
-                "note": "HOLY FUCKING SHIT"
-            },
-            {
-                "path": "moondrop/CHENGDU-2.png",
-                "display_name": "[MOONDROP] CHENGDU-2",
-                "note": "just an upgrade on blessing 3 prety much. while the iems arent represented its so much better"
-            },
-            {
-                "path": "moondrop/NEW YORK.png",
-                "display_name": "[MOONDROP] NEW YORK",
-                "note": "OLY HIT IRE (HSF)"
-            },
-            {
-                "path": "moondrop/MOUSEPAD-2.png",
-                "display_name": "[MOONDROP] MOUSEPAD-2",
-                "note": "unironically distinctly better than the first mousepad. gonna be honest. water is better. everything is better"
-            },
-            {
-                "path": "moondrop/ARIA.png",
-                "display_name": "[MOONDROP] ARIA",
-                "note": "pink+black is an amazing color scheme"
-            },
-            {
-                "path": "moondrop/KATO BLUE.png",
-                "display_name": "[MOONDROP] KATO BLUE",
-                "note": "HOLY SHIT. detail and everything peak"
-            },
-            {
-                "path": "moondrop/ALICE.png",
-                "display_name": "[MOONDROP] ALICE",
-                "note": "hawt"
-            },
-            {
-                "path": "SEEAUDIO/Yume.png",
-                "display_name": "[SEEAUDIO] Yume",
-                "note": "beautiful and hot"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-3.png",
-                "display_name": "[TRUTHEAR] SHIROI-3",
-                "note": "goth bunny hot + feet (don't love the bunny ears tho, but they're still quite good)"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-6.png",
-                "display_name": "[TRUTHEAR] SHIROI-6",
-                "note": "wowzies hot but why the drunk bitch look?"
-            }
-        ],
-        "ss": [
-            {
-                "path": "moondrop/DISCDREAM2.png",
-                "display_name": "[MOONDROP] DISCDREAM2",
-                "note": "I really like all the details and the artstyle but the whole CD player is a bit.... detracting"
-            },
-            {
-                "path": "moondrop/Mid-Autumn Festival.png",
-                "display_name": "[MOONDROP] Mid-Autumn Festival",
-                "note": "Good - I mean theres a nice mix of the colors in the IEMs and the background. Weird things - why does this mitsukiyuki have bunny ears? Mostly quite good though."
-            },
-            {
-                "path": "moondrop/NEW YEAR.png",
-                "display_name": "[MOONDROP] NEW YEAR",
-                "note": "very good but looks slightly too much like a pokemon"
-            },
-            {
-                "path": "moondrop/BLESSING3.png",
-                "display_name": "[MOONDROP] BLESSING3",
-                "note": "so good, realistic but a LIL bit blurry around the eyes and a little bit... plain"
-            },
-            {
-                "path": "moondrop/MOUSEPAD.png",
-                "display_name": "[MOONDROP] MOUSEPAD",
-                "note": "holy shit; why iem cable in water? whateever"
-            },
-            {
-                "path": "moondrop/ARIA SE.png",
-                "display_name": "[MOONDROP] ARIA SE",
-                "note": "beautiful but like why more focus on the snowflake then on the waifu"
-            },
-            {
-                "path": "moondrop/ILLUMINATION.png",
-                "display_name": "[MOONDROP] ILLUMINATION",
-                "note": "beautiful but does it fully count as a waifu? it has no legs and whatever-the-fuck that blur is"
-            },
-            {
-                "path": "moondrop/SSR.png",
-                "display_name": "[MOONDROP] SSR",
-                "note": "really nice, really well executed but why is there NOTHING that the mic stand goes into? dunno"
-            },
-            {
-                "path": "moondrop/LITTLE WHITE.png",
-                "display_name": "[MOONDROP] LITTLE WHITE",
-                "note": "really beautiful kato art but like... it's feels a bit run-down. good waifu for certain people i'd say"
-            },
-            {
-                "path": "moondrop/JIU.png",
-                "display_name": "[MOONDROP] JIU",
-                "note": "so good but why it look SO MUCH like Flare from redo of healer?"
-            },
-            {
-                "path": "moondrop/KATO.png",
-                "display_name": "[MOONDROP] KATO",
-                "note": "quite good, no objective things really but it's just a little bit nothing special for me + hat stupid"
-            },
-            {
-                "path": "SEEAUDIO/Yume Summer Edition.png",
-                "display_name": "[SEEAUDIO] Yume Summer Edition",
-                "note": "weebified yume is worse"
-            },
-            {
-                "path": "TANCHJIM/ASANO TANCH.png",
-                "display_name": "[TANCHJIM] ASANO TANCH",
-                "note": "not for me but very good and hot ig"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-8.png",
-                "display_name": "[TRUTHEAR] SHIROI-8",
-                "note": "really good but prior ones had feet"
-            }
-        ],
-        "sp": [
-            {
-                "path": "moondrop/UNNAMED.png",
-                "display_name": "[MOONDROP] UNNAMED",
-                "note": "This is a beautiful line art representation of seemingly the same thing as the Coffee2 art. No real complaints but I just don't love it"
-            },
-            {
-                "path": "moondrop/PARA.png",
-                "display_name": "[MOONDROP] PARA",
-                "note": "Once Again... so beautiful but the headphones look stupid - very"
-            },
-            {
-                "path": "moondrop/VENUS.png",
-                "display_name": "[MOONDROP] VENUS",
-                "note": "It's SOOO GOOD but the headphones look REALLY STUPID"
-            },
-            {
-                "path": "moondrop/CHRISTMAS.png",
-                "display_name": "[MOONDROP] CHRISTMAS",
-                "note": "it's really quite boring but feels kinda sticker-y"
-            },
-            {
-                "path": "moondrop/CHILDREN'S DAY.png",
-                "display_name": "[MOONDROP] CHILDREN'S DAY",
-                "note": "really quite good but i dont love it right away"
-            },
-            {
-                "path": "moondrop/NEW YEAR - 3.png",
-                "display_name": "[MOONDROP] NEW YEAR - 3",
-                "note": "reminds me of bunny girl senpai"
-            },
-            {
-                "path": "moondrop/Concerto.png",
-                "display_name": "[MOONDROP] Concerto",
-                "note": "Almost perfect BUT I the earphones are slightly blocky - I do like the detailing (e.g. them writing Moondrop on the earphones like IRL) but other than that it's really quite good. best of the s+"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-5.png",
-                "display_name": "[TRUTHEAR] SHIROI-5",
-                "note": "very poppy and pretty, not sure i love the default-ahh text and the hair fading into the background"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-CHIBI.png",
-                "display_name": "[TRUTHEAR] SHIROI-CHIBI",
-                "note": "chibi ehh but the dark white look peak"
-            }
-        ],
-        "s": [
-            {
-                "path": "moondrop/COFFEE2.png",
-                "display_name": "[MOONDROP] COFFEE2",
-                "note": "There's nothing wrong with it. I just don't love this artstyle personally."
-            },
-            {
-                "path": "moondrop/COFFEE.png",
-                "display_name": "[MOONDROP] COFFEE",
-                "note": "Light mode version of the Coffee 2 which I actually like slightly less"
-            },
-            {
-                "path": "moondrop/JOKER.png",
-                "display_name": "[MOONDROP] JOKER",
-                "note": "Beautiful but the joker looks bad but it does work. Lack of color... does detract a bit. Feels a bit manga-y"
-            },
-            {
-                "path": "moondrop/Dark Saber.png",
-                "display_name": "[MOONDROP] Dark Saber",
-                "note": "beautiful sword design"
-            },
-            {
-                "path": "moondrop/NEKOCAKE.png",
-                "display_name": "[MOONDROP] NEKOCAKE",
-                "note": "NNN (not 'nough neko)"
-            },
-            {
-                "path": "moondrop/MOONRIVER 2.png",
-                "display_name": "[MOONDROP] MOONRIVER 2",
-                "note": "probably the best line art but like... not great, and the moonriver 2 being all black looks kinda bad"
-            },
-            {
-                "path": "FAAEAL/HIBISCUS - Colored.png",
-                "display_name": "[FAAEAL] HIBISCUS - Colored",
-                "note": "very beautiful but i don't LOVEE the background"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI.png",
-                "display_name": "[TRUTHEAR] SHIROI",
-                "note": "really good art but; why is the ribbons flaking? that's not how fabric works + that pike can impale your dick into the ground permanently"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-4.png",
-                "display_name": "[TRUTHEAR] SHIROI-4",
-                "note": "i think this was accidentally a dupe of shiroi-1 but once again; stupid pike, not how ribbons work."
-            }
-        ],
-        "a": [
-            {
-                "path": "moondrop/DISCDREAM2 ULTRA.png",
-                "display_name": "[MOONDROP] DISCDREAM2 ULTRA",
-                "note": "Artstyle and art good concept bad. The button concept is not good"
-            },
-            {
-                "path": "moondrop/GOLDEN AGE 1979 - 2.png",
-                "display_name": "[MOONDROP] GOLDEN AGE 1979 - 2",
-                "note": "theres nothing technically wrong with it and i like the artstyle more than the style of the coffee's but there's nothing so good about it"
-            },
-            {
-                "path": "moondrop/VOYAGER.png",
-                "display_name": "[MOONDROP] VOYAGER",
-                "note": "good but kinda.... boring? not boring, just not so interesting. also not a style of IEMs I like, but I applied the same thing to the Concerto and this is.. . dintinctly worse"
-            },
-            {
-                "path": "moondrop/BLESSING2 DUSK.png",
-                "display_name": "[MOONDROP] BLESSING2 DUSK",
-                "note": "crinaclette without coloration, plus an l-shaped 3.5mm jack is boring plus an unidentifiable dac"
-            },
-            {
-                "path": "moondrop/AKIHABARA.png",
-                "display_name": "[MOONDROP] AKIHABARA",
-                "note": "good representation of akihabara does not mean it's good"
-            },
-            {
-                "path": "moondrop/KURONEKO.png",
-                "display_name": "[MOONDROP] KURONEKO",
-                "note": "it's very nice if you like that kind of thing"
-            },
-            {
-                "path": "moondrop/CHU.png",
-                "display_name": "[MOONDROP] CHU",
-                "note": "hyper traditional waifu"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-7.png",
-                "display_name": "[TRUTHEAR] SHIROI-7",
-                "note": "dont love it but nothing too bad"
-            }
-        ],
-        "b": [
-            {
-                "path": "moondrop/CHU2 DSP.png",
-                "display_name": "[MOONDROP] CHU2 DSP",
-                "note": "chibi dongle is good but stupid"
-            },
-            {
-                "path": "moondrop/MAY.png",
-                "display_name": "[MOONDROP] MAY",
-                "note": "the closer you look it gets slightly better with the details but its just so rounded-flowery. b tier"
-            },
-            {
-                "path": "moondrop/Dawn Pro.png",
-                "display_name": "[MOONDROP] Dawn Pro",
-                "note": "dawn pro art is fine but ehh"
-            },
-            {
-                "path": "moondrop/CHU II II.png",
-                "display_name": "[MOONDROP] CHU II II",
-                "note": "kinda boring but i really like the use of color"
-            },
-            {
-                "path": "moondrop/SPARKS - 2.png",
-                "display_name": "[MOONDROP] SPARKS - 2",
-                "note": "catgirl gives bonus points but not much better"
-            },
-            {
-                "path": "moondrop/ACRYLIC STAND.png",
-                "display_name": "[MOONDROP] ACRYLIC STAND",
-                "note": "when did they even sell an acrylic stand"
-            },
-            {
-                "path": "moondrop/VARIATIONS.png",
-                "display_name": "[MOONDROP] VARIATIONS",
-                "note": "average cooking waifu"
-            },
-            {
-                "path": "moondrop/SPACESHIP 2.png",
-                "display_name": "[MOONDROP] SPACESHIP 2",
-                "note": "line ar and somewhat boring headphones but reminds me of ame in a good way"
-            },
-            {
-                "path": "moondrop/VOID.png",
-                "display_name": "[MOONDROP] VOID",
-                "note": "it's uh nothing special plus a dumb looking headphone"
-            },
-            {
-                "path": "moondrop/VOID - 2.png",
-                "display_name": "[MOONDROP] VOID - 2",
-                "note": "same as void 1"
-            },
-            {
-                "path": "TRUTHEAR/SHIROI-2.png",
-                "display_name": "[TRUTHEAR] SHIROI-2",
-                "note": "really plain + yellow eyes look fucked up."
-            }
-        ],
-        "c": [
-            {
-                "path": "moondrop/DISCDREAM.png",
-                "display_name": "[MOONDROP] DISCDREAM",
-                "note": "Cool concept but not waifu-y. i really like how black BG -> you can only read text because the text is slightly colored. it's cool"
-            },
-            {
-                "path": "moondrop/MS.Q (Color).png",
-                "display_name": "[MOONDROP] MS.Q (Color)",
-                "note": "chibi is not my style but its pretty good"
-            },
-            {
-                "path": "moondrop/CHENGDU.png",
-                "display_name": "[MOONDROP] CHENGDU",
-                "note": "slightly better than qixi festival"
-            },
-            {
-                "path": "moondrop/SPARKS.png",
-                "display_name": "[MOONDROP] SPARKS",
-                "note": "average dissapointing"
-            },
-            {
-                "path": "moondrop/CHRISTMAS-2.png",
-                "display_name": "[MOONDROP] CHRISTMAS-2",
-                "note": "too chibi not enogh waifu"
-            },
-            {
-                "path": "moondrop/SPARKS - 3.png",
-                "display_name": "[MOONDROP] SPARKS - 3",
-                "note": "nothing special"
-            },
-            {
-                "path": "moondrop/LAN.png",
-                "display_name": "[MOONDROP] LAN",
-                "note": "it's like the chu II II but without quality use of color"
-            },
-            {
-                "path": "moondrop/SOLIS.png",
-                "display_name": "[MOONDROP] SOLIS",
-                "note": "angel"
-            },
-            {
-                "path": "moondrop/CHING CHONG BING BONG 1.png",
-                "display_name": "[MOONDROP] CHING CHONG BING BONG 1",
-                "note": "horns-y"
-            }
-        ],
-        "d": [
-            {
-                "path": "moondrop/Space Travel 2.png",
-                "display_name": "[MOONDROP] Space Travel 2",
-                "note": "Unobjectionable, mediocre line art. No IEMs though. A bit plain."
-            },
-            {
-                "path": "moondrop/COSMO.png",
-                "display_name": "[MOONDROP] COSMO",
-                "note": "Same issue as the venus except a distinct lack of redeeming qualities"
-            },
-            {
-                "path": "moondrop/CHU2 2.png",
-                "display_name": "[MOONDROP] CHU2 2",
-                "note": "this is pretty stewpid"
-            },
-            {
-                "path": "moondrop/Space Travel.png",
-                "display_name": "[MOONDROP] Space Travel",
-                "note": "boring"
-            },
-            {
-                "path": "moondrop/KXXS.png",
-                "display_name": "[MOONDROP] KXXS",
-                "note": "just plain boring."
-            },
-            {
-                "path": "moondrop/KANTO COOKING.png",
-                "display_name": "[MOONDROP] KANTO COOKING",
-                "note": "FOOD NO EQUAL WAIFU"
-            },
-            {
-                "path": "moondrop/WEDDING - 3.png",
-                "display_name": "[MOONDROP] WEDDING - 3",
-                "note": "NETORARE BUT LESS SLIGHTLY"
-            },
-            {
-                "path": "moondrop/NEW YEAR - 2.png",
-                "display_name": "[MOONDROP] NEW YEAR - 2",
-                "note": "shit yuri"
-            },
-            {
-                "path": "moondrop/KXXX.png",
-                "display_name": "[MOONDROP] KXXX",
-                "note": "stupid sleeve + stick going through chest"
-            },
-            {
-                "path": "fitear/AYA 1.png",
-                "display_name": "[FITEAR] AYA 1",
-                "note": "lewd!=good and this is trashy"
-            },
-            {
-                "path": "fitear/AYA2.png",
-                "display_name": "[FITEAR] AYA2",
-                "note": "still aya"
-            },
-            {
-                "path": "GFL (Game)/DE LISLE.png",
-                "display_name": "[GFL (GAME)] DE LISLE",
-                "note": "highly unrealistic iem otaku; but kinda good lol"
-            }
-        ],
-        "f": [
-            {
-                "path": "moondrop/MS.Q.png",
-                "display_name": "[MOONDROP] MS.Q",
-                "note": "looks fat"
-            },
-            {
-                "path": "moondrop/QIXI FESTIVAL.png",
-                "display_name": "[MOONDROP] QIXI FESTIVAL",
-                "note": "so boring and not good and why is there a halo?"
-            },
-            {
-                "path": "moondrop/CHACONNE.png",
-                "display_name": "[MOONDROP] CHACONNE",
-                "note": "the people who like this liked ylia cuz they thought the violinist was hot"
-            },
-            {
-                "path": "moondrop/S8.png",
-                "display_name": "[MOONDROP] S8",
-                "note": "this is just a girl whos cold"
-            },
-            {
-                "path": "moondrop/MID-AUTUMN.png",
-                "display_name": "[MOONDROP] MID-AUTUMN",
-                "note": "rack no equal waifu"
-            },
-            {
-                "path": "moondrop/SPACESHIP.png",
-                "display_name": "[MOONDROP] SPACESHIP",
-                "note": "stewpid"
-            },
-            {
-                "path": "moondrop/BLESSING2.png",
-                "display_name": "[MOONDROP] BLESSING2",
-                "note": "boring flat no representation of iem"
-            },
-            {
-                "path": "moondrop/WEDDING 2.png",
-                "display_name": "[MOONDROP] WEDDING 2",
-                "note": "ne-to-ra-re"
-            },
-            {
-                "path": "moondrop/STELLARIS.png",
-                "display_name": "[MOONDROP] STELLARIS",
-                "note": "kinda random and shit"
-            },
-            {
-                "path": "moondrop/CHING CHONG BING BONG 2.png",
-                "display_name": "[MOONDROP] CHING CHONG BING BONG 2",
-                "note": "boring way-too-bright colored mitsukiyuki"
-            },
-            {
-                "path": "fitear/Monet17.png",
-                "display_name": "[FITEAR] Monet17",
-                "note": "first non-moondrop; but it's very boring for waifu"
-            },
-            {
-                "path": "FAAEAL/HIBISCUS - Box Art.png",
-                "display_name": "[FAAEAL] HIBISCUS - Box Art",
-                "note": "ARIAL PLUS LOOKS LIKE SHIT"
-            }
-        ],
-        "not_waifu": [
-            {
-                "path": "moondrop/VALENTINES DAY.png",
-                "display_name": "[MOONDROP] VALENTINES DAY",
-                "note": "NOT A WAIFU FUCKFACE"
-            },
-            {
-                "path": "moondrop/CHRISTMAS-3.png",
-                "display_name": "[MOONDROP] CHRISTMAS-3",
-                "note": "this does not pass the is_waifu test"
-            },
-            {
-                "path": "moondrop/WEDDING.png",
-                "display_name": "[MOONDROP] WEDDING",
-                "note": "least waifu"
-            },
-            {
-                "path": "moondrop/STARFIELD.png",
-                "display_name": "[MOONDROP] STARFIELD",
-                "note": "beautiful starfield but NOT A WAIFU and has a blacked-out figure"
-            },
-            {
-                "path": "FiiO/cable.png",
-                "display_name": "[FIIO] cable",
-                "note": "lifeless = not waifu"
-            },
-            {
-                "path": "IKKO/Obsidian OH10.png",
-                "display_name": "[IKKO] Obsidian OH10",
-                "note": "looks ai generated and eyes are too far apart"
-            },
-            {
-                "path": "TANGZU/WANER.png",
-                "display_name": "[TANGZU] WANER",
-                "note": "traditional not waifu"
-            }
-        ],
-        "uhhh": [
-            {
-                "path": "moondrop/yoghurt.png",
-                "display_name": "[MOONDROP] yoghurt",
-                "note": "basically just hentai"
-            }
-        ]
+        "ssp": [],
+        "ss": [],
+        "sp": [],
+        "s": [],
+        "a": [],
+        "b": [],
+        "c": [],
+        "d": [],
+        "f": [],
+        "not_waifu": [],
+        "uhhh": []
     }
 }
